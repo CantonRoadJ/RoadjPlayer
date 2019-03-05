@@ -1,0 +1,5 @@
+QMAKE_PRL_BUILD_DIR = /home/jia/qtProject/build-fft-Desktop_Qt_5_9_4_GCC_64bit-Release/fftChart
+QMAKE_PRO_INPUT = fftChart.pro
+QMAKE_PRL_TARGET = libfftChart.so.1.3.0
+QMAKE_PRL_CONFIG = lex yacc exceptions depend_includepath testcase_targets import_plugins import_qpa_plugin file_copies qmake_use qt warn_on release link_prl incremental shared release linux unix posix gcc shared qt create_pc create_prl no_install_prl have_target dll c++11 thread uic opengl moc resources
+QMAKE_PRL_VERSION = 1.3

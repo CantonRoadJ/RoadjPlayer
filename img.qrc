@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon_valume.png</file>
+        <file>img/icon_up_selected.png</file>
+        <file>img/icon_up_normal.png</file>
+        <file>img/icon_single.png</file>
+        <file>img/icon_random.png</file>
+        <file>img/icon_play.png</file>
+        <file>img/icon_pause.png</file>
+        <file>img/icon_next_selected.png</file>
+        <file>img/icon_next_normal.png</file>
+        <file>img/icon_list.png</file>
+        <file>img/icon_last_selected.png</file>
+        <file>img/icon_last_normal.png</file>
+        <file>img/icon_eqsetting.png</file>
+        <file>img/icon_down_selected.png</file>
+        <file>img/icon_down_normal.png</file>
+        <file>img/icon_df_head.png</file>
+        <file>img/icon_back.png</file>
+        <file>img/icon_add.png</file>
+        <file>img/change.png</file>
+    </qresource>
+</RCC>

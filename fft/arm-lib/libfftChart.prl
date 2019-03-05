@@ -1,0 +1,5 @@
+QMAKE_PRL_BUILD_DIR = /home/jia/qtProject/build-fft-arm_for_linux-Debug/fftChart
+QMAKE_PRO_INPUT = fftChart.pro
+QMAKE_PRL_TARGET = libfftChart.so.1.3.0
+QMAKE_PRL_CONFIG = lex yacc debug exceptions depend_includepath testcase_targets import_plugins import_qpa_plugin qt warn_on link_prl incremental cross_compile shared qpa no_mocdepend qt_no_framework linux unix posix \$(OE_QMAKE_COMPILER) gcc debug qml_debug shared qt create_pc create_prl no_install_prl have_target dll debug_info thread uic opengl moc resources
+QMAKE_PRL_VERSION = 1.3
